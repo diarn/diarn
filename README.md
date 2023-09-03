@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diar Nur Rizky</h1>
-<h3 align="center">Semi Professional Mobile Developer</h3>
+<h3 align="center">Professional Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diarn&label=Profile%20views&color=0e75b6&style=flat" alt="diarn" /> </p>
 
